@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jjdxm-retrofit-converter-fastjson/jjdxm-retrofit-converter-fastjson.iml" filepath="$PROJECT_DIR$/jjdxm-retrofit-converter-fastjson/jjdxm-retrofit-converter-fastjson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jjdxm_retrofit-converter-fastjson.iml" filepath="$PROJECT_DIR$/jjdxm_retrofit-converter-fastjson.iml" />
+    </modules>
+  </component>
+</project>
